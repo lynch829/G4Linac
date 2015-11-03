@@ -1,9 +1,0 @@
-#!/bin/bash
-echo 'ERSN/LMR, University Abdelmalek Essaadi Faculty of Sciences - Tetouan, Morocco '
-echo '==============================================================================='
-
-
-mpiexec  -machinefile file -n 1 ERSN-QMC-PARADOSECAL reader.mac
-#ERSN-PARADOSECAL1
-exit
-
